@@ -296,3 +296,16 @@ INV_PAS = 无效的密码!
 PAS_ACC = 密码已经被接受
 PRIV_SET = 权限设置
 NO_ENTRY = 您没有进入到服务器...
+
+[al]
+LOADED_ADMIN = U ngarkua 1 admin prej skedarit
+LOADED_ADMINS = U ngarkuan %d admina prej skedarit
+SQL_CANT_CON = Gabim SQL: nuk mund te lidhet: '%s'
+SQL_CANT_LOAD_ADMINS = Gabim SQL: nuk mund te ngarkoj adminat: '%s'
+NO_ADMINS = Nuk u gjenden admina.
+SQL_LOADED_ADMIN = U ngarkua 1 admin prej databazes
+SQL_LOADED_ADMINS = U ngarkuan %d admina prej databazes
+INV_PAS = Gabim fjalekalimi!
+PAS_ACC = Fjalekalimi u pranua
+PRIV_SET = Privilegjet u vendosen
+NO_ENTRY = Ju nuk mund te hyni ketu, ju lutem shkruani fjalekalimin tuaj...
