@@ -411,3 +411,21 @@ STATS_SET = 统计设置 ^n
 PAUSE_PLUG = 暂停插件
 RES_WEAP = 限制武器
 TELE_PLAYER = 传送玩家
+
+[al]
+KICK_PLAYER = Largo Lojtarin
+BAN_PLAYER = Ndalo Lojtarin
+SLAP_SLAY = Ndeshko/Vrite Lojtarin
+TEAM_PLAYER = Lojtari Ekipit ^n
+CHANGEL = Ndrysho Harten
+VOTE_MAPS = Voto per harta ^n
+SPECH_STUFF = Fjale Folura
+CLIENT_COM = Komandat Lojtarit
+SERVER_COM = Komandat Serverit
+CVARS_SET = Konfigurimet Cvar
+CONFIG = Konfigurimet
+LANG_SET = Konfigurimet Gjuhes
+STATS_SET = Konfigurimet Statistikave ^n
+PAUSE_PLUG = Pusho Plugins
+RES_WEAP = Kufizo Armet
+TELE_PLAYER = Transporto Lojtarin
