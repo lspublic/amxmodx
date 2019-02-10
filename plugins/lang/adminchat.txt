@@ -296,3 +296,16 @@ COL_ORANGE = 橙色
 COL_OCEAN = 深蓝色
 COL_MAROON = 褐红色
 PRINT_ALL = (全部) %s :   %s
+
+[al]
+COL_WHITE = bardhe
+COL_RED = kuq
+COL_GREEN = gjelbert
+COL_BLUE = kalter
+COL_YELLOW = verdhe
+COL_MAGENTA = roze
+COL_CYAN = kalter e hapur
+COL_ORANGE = portokallte
+COL_OCEAN = kalter e mbyllte
+COL_MAROON = kafte
+PRINT_ALL = (Gjithe) %s :   %s
